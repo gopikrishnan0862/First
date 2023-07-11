@@ -5,7 +5,7 @@
   }
   
   .counting {
-    color: red;
+    color: rgb(46, 46, 236);
     font-weight: bold;
     font-size:100px;
     display: flex;
